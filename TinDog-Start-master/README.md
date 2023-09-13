@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog landing page without functionality 
